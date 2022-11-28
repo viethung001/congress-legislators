@@ -1,7 +1,7 @@
 congress-legislators
 ====================
 
-Members of the United States Congress (1789-Present), congressional committees (1973-Present), committee membership (current only), and presidents and vice presidents of the United States in YAML, JSON, and CSV format.
+Members of the United States Congress and the House (1789-Present), congressional committees (1973-Present), committee membership (current only), and presidents and vice presidents of the United States in YAML, JSON, and CSV format.
 
 [![Build Status](https://circleci.com/gh/unitedstates/congress-legislators.svg?style=shield)](https://circleci.com/gh/unitedstates/congress-legislators)
 
